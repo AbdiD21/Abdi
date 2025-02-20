@@ -1,3 +1,3 @@
 # Abdi
 My personal repository.
-Hi there, I am an electrical engineer at ASTU.
+Hi there, I am an software engineer at ASTU.
